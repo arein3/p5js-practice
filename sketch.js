@@ -1,7 +1,7 @@
 function setup() {
-  createCanvas(1001, 1000);
-  background(200);
-  text('Start', 10, 10, 70, 80);
+  createCanvas(1000, 1500);
+  background(300);
+  text('Start', 750, 500, 200, 200);
 }
 
 //copied this from 'click here to save button'
